@@ -1,2 +1,2 @@
-# Concordia
-# hello sao chu to the
+# Concordia Univeristy
+#### These are projects and assignments during my study

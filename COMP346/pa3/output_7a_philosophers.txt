@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\lib\idea_rt.jar=52645:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Win10\comp346\pa3\out\production\pa3 DiningPhilosophers 7.a
+7.a is not a positive decimal integer
+Usage: java DiningPhilosophers [NUMBER_OF_PHILOSOPHERS]
+
+Process finished with exit code 1
